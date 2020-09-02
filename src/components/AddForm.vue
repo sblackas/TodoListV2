@@ -46,7 +46,7 @@ export default {
         createdAt: new Date(),
         todo: true,
       });
-      this.newTask = ""; // ligne pour remettre à vide une fois la tache ajoutée
+      this.newTask = "lol"; // ligne pour remettre à vide une fois la tache ajoutée
     },
   },
 };
